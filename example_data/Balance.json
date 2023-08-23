@@ -3,8 +3,8 @@
       {
           "account_id": "mk56Nr1AGQUaol53rQmMSP8aJglAeWfLmzvK4",
           "balances": {
-              "available": 100,
-              "current": 110,
+              "available": 223100,
+              "current": 223110,
               "limit": null
           },
           "mask": "0000",
@@ -16,8 +16,8 @@
       {
           "account_id": "yeV6gAmrXGSnEmZM8xVyfLokjmJg1Kty3eq1W",
           "balances": {
-              "available": 200,
-              "current": 210,
+              "available": 223200,
+              "current": 223210,
               "limit": null
           },
           "mask": "1111",
@@ -29,8 +29,8 @@
       {
           "account_id": "9A8oeG36aqtg7JEpzj6yUKq4XMaG6kSRGaWeE",
           "balances": {
-              "available": null,
-              "current": 1000,
+              "available": 40000,
+              "current": 40000,
               "limit": null
           },
           "mask": "2222",
@@ -43,8 +43,8 @@
           "account_id": "vPq6LpGlwEIe1bDZgzapHLdl8BPVmWtWzA3Gl",
           "balances": {
               "available": null,
-              "current": 410,
-              "limit": 2000
+              "current": 22410,
+              "limit": 22000
           },
           "mask": "3333",
           "name": "Plaid Credit Card",
@@ -55,8 +55,8 @@
       {
           "account_id": "R58lPRmGaWHNKqGE7bWzhrbQGLPeD7iRl3vxw",
           "balances": {
-              "available": 43200,
-              "current": 43200,
+              "available": 243200,
+              "current": 243200,
               "limit": null
           },
           "mask": "4444",
